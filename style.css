@@ -1,0 +1,37 @@
+body {
+  background-color: #cc2efa;
+}
+
+
+#main {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  float: left;
+  text-align: center;
+  color: #fff;
+}
+
+img {
+   border-style: none;
+}
+
+#nav {
+  list-style-type: none;
+	width: 200px;
+  float: right;
+  text-align: center;
+  font-size: 18px;
+}
+
+#nav a:link, #nav a:visited {
+	text-align: center;
+	color: #fff;
+	background-color: #CC2EFA;
+	display: block;
+	width: 125px;
+}
+
+#nav a:hover, #nav a:active {
+	background-color: #8904B1;
+}
